@@ -1,0 +1,409 @@
+2023-04-13 18:54:34,630 - DuoBedApplication -INFO - Framework execution started
+2023-04-13 18:55:02,066 - DuoBedApplication -INFO - Browser launchesCHROME
+2023-04-13 18:55:02,067 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-13 18:55:02,131 - DuoBedApplication -INFO - logged into application successfully
+2023-04-13 18:55:02,161 - DuoBedApplication -INFO - Object Creation
+2023-04-13 18:55:02,180 - DuoBedApplication -INFO - Test case execution started
+2023-04-13 18:55:54,751 - DuoBedApplication -INFO - Test case execution failed
+2023-04-13 18:55:54,991 - DuoBedApplication -INFO - Screenshot taken
+2023-04-13 18:55:54,994 - DuoBedApplication -INFO - browser closed
+2023-04-13 18:55:54,996 - DuoBedApplication -INFO - Framework execution ended
+2023-04-13 18:56:49,618 - DuoBedApplication -INFO - Framework execution started
+2023-04-13 18:57:01,559 - DuoBedApplication -INFO - Browser launchesCHROME
+2023-04-13 18:57:01,573 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-13 18:57:01,665 - DuoBedApplication -INFO - logged into application successfully
+2023-04-13 18:57:01,671 - DuoBedApplication -INFO - Object Creation
+2023-04-13 18:57:01,683 - DuoBedApplication -INFO - Test case execution started
+2023-04-13 18:58:44,347 - DuoBedApplication -INFO - Test case execution completed
+2023-04-13 18:58:44,347 - DuoBedApplication -INFO - browser closed
+2023-04-13 18:58:44,361 - DuoBedApplication -INFO - Framework execution ended
+2023-04-13 19:20:59,837 - DuoBedApplication -INFO - Framework execution started
+2023-04-13 19:21:06,675 - DuoBedApplication -INFO - Browser launchesCHROME
+2023-04-13 19:21:06,676 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-13 19:21:06,717 - DuoBedApplication -INFO - logged into application successfully
+2023-04-13 19:21:06,723 - DuoBedApplication -INFO - Object Creation
+2023-04-13 19:22:30,627 - DuoBedApplication -INFO - browser closed
+2023-04-13 19:22:36,531 - DuoBedApplication -INFO - Browser launchesCHROME
+2023-04-13 19:22:36,531 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-13 19:22:36,533 - DuoBedApplication -INFO - logged into application successfully
+2023-04-13 19:22:36,536 - DuoBedApplication -INFO - Object Creation
+2023-04-13 19:24:02,064 - DuoBedApplication -INFO - browser closed
+2023-04-13 19:24:02,064 - DuoBedApplication -INFO - Framework execution ended
+2023-04-13 19:46:32,470 - DuoBedApplication -INFO - Framework execution started
+2023-04-13 19:46:38,783 - DuoBedApplication -INFO - Browser launchesCHROME
+2023-04-13 19:46:38,783 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-13 19:46:38,833 - DuoBedApplication -INFO - logged into application successfully
+2023-04-13 19:46:38,847 - DuoBedApplication -INFO - Object Creation
+2023-04-13 19:46:38,859 - DuoBedApplication -INFO - Test case execution started
+2023-04-13 19:48:14,731 - DuoBedApplication -INFO - Test case execution completed
+2023-04-13 19:48:14,731 - DuoBedApplication -INFO - browser closed
+2023-04-13 19:48:25,442 - DuoBedApplication -INFO - Browser launchesCHROME
+2023-04-13 19:48:25,443 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-13 19:48:25,444 - DuoBedApplication -INFO - logged into application successfully
+2023-04-13 19:48:25,452 - DuoBedApplication -INFO - Object Creation
+2023-04-13 19:48:25,456 - DuoBedApplication -INFO - Test case execution started
+2023-04-13 19:49:03,770 - DuoBedApplication -INFO - Test case execution failed
+2023-04-13 19:49:03,940 - DuoBedApplication -INFO - Screenshot taken
+2023-04-13 19:49:03,940 - DuoBedApplication -INFO - browser closed
+2023-04-13 19:49:12,819 - DuoBedApplication -INFO - Browser launchesCHROME
+2023-04-13 19:49:12,820 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-13 19:49:12,821 - DuoBedApplication -INFO - logged into application successfully
+2023-04-13 19:49:12,823 - DuoBedApplication -INFO - Object Creation
+2023-04-13 19:49:12,825 - DuoBedApplication -INFO - Test case execution started
+2023-04-13 19:50:58,123 - DuoBedApplication -INFO - Test case execution completed
+2023-04-13 19:50:58,124 - DuoBedApplication -INFO - browser closed
+2023-04-13 19:51:03,987 - DuoBedApplication -INFO - Browser launchesCHROME
+2023-04-13 19:51:03,987 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-13 19:51:03,989 - DuoBedApplication -INFO - logged into application successfully
+2023-04-13 19:51:03,990 - DuoBedApplication -INFO - Object Creation
+2023-04-13 19:51:03,992 - DuoBedApplication -INFO - Test case execution started
+2023-04-13 19:51:44,444 - DuoBedApplication -INFO - Test case execution failed
+2023-04-13 19:51:44,555 - DuoBedApplication -INFO - Screenshot taken
+2023-04-13 19:51:44,555 - DuoBedApplication -INFO - browser closed
+2023-04-13 19:51:50,388 - DuoBedApplication -INFO - Browser launchesCHROME
+2023-04-13 19:51:50,389 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-13 19:51:50,394 - DuoBedApplication -INFO - logged into application successfully
+2023-04-13 19:51:50,396 - DuoBedApplication -INFO - Object Creation
+2023-04-13 19:51:50,404 - DuoBedApplication -INFO - Test case execution started
+2023-04-13 19:52:35,861 - DuoBedApplication -INFO - Test case execution failed
+2023-04-13 19:52:35,994 - DuoBedApplication -INFO - Screenshot taken
+2023-04-13 19:52:35,996 - DuoBedApplication -INFO - browser closed
+2023-04-13 19:52:43,479 - DuoBedApplication -INFO - Browser launchesCHROME
+2023-04-13 19:52:43,479 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-13 19:52:43,479 - DuoBedApplication -INFO - logged into application successfully
+2023-04-13 19:52:43,480 - DuoBedApplication -INFO - Object Creation
+2023-04-13 19:52:43,486 - DuoBedApplication -INFO - Test case execution started
+2023-04-13 19:54:30,423 - DuoBedApplication -INFO - Test case execution completed
+2023-04-13 19:54:30,424 - DuoBedApplication -INFO - browser closed
+2023-04-13 19:54:35,769 - DuoBedApplication -INFO - Browser launchesCHROME
+2023-04-13 19:54:35,770 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-13 19:54:35,770 - DuoBedApplication -INFO - logged into application successfully
+2023-04-13 19:54:35,771 - DuoBedApplication -INFO - Object Creation
+2023-04-13 19:54:35,774 - DuoBedApplication -INFO - Test case execution started
+2023-04-13 19:55:29,300 - DuoBedApplication -INFO - Test case execution failed
+2023-04-13 19:55:29,687 - DuoBedApplication -INFO - Screenshot taken
+2023-04-13 19:55:29,688 - DuoBedApplication -INFO - browser closed
+2023-04-13 19:55:37,586 - DuoBedApplication -INFO - Browser launchesCHROME
+2023-04-13 19:55:37,586 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-13 19:55:37,586 - DuoBedApplication -INFO - logged into application successfully
+2023-04-13 19:55:37,587 - DuoBedApplication -INFO - Object Creation
+2023-04-13 19:55:37,590 - DuoBedApplication -INFO - Test case execution started
+2023-04-13 19:57:17,296 - DuoBedApplication -INFO - Test case execution completed
+2023-04-13 19:57:17,299 - DuoBedApplication -INFO - browser closed
+2023-04-13 19:57:22,166 - DuoBedApplication -INFO - Browser launchesCHROME
+2023-04-13 19:57:22,167 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-13 19:57:22,167 - DuoBedApplication -INFO - logged into application successfully
+2023-04-13 19:57:22,168 - DuoBedApplication -INFO - Object Creation
+2023-04-13 19:57:22,174 - DuoBedApplication -INFO - Test case execution started
+2023-04-13 19:58:33,723 - DuoBedApplication -INFO - Test case execution failed
+2023-04-13 19:58:33,846 - DuoBedApplication -INFO - Screenshot taken
+2023-04-13 19:58:33,846 - DuoBedApplication -INFO - browser closed
+2023-04-13 19:58:39,544 - DuoBedApplication -INFO - Browser launchesCHROME
+2023-04-13 19:58:39,544 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-13 19:58:39,545 - DuoBedApplication -INFO - logged into application successfully
+2023-04-13 19:58:39,545 - DuoBedApplication -INFO - Object Creation
+2023-04-13 19:58:39,547 - DuoBedApplication -INFO - Test case execution started
+2023-04-13 19:59:30,035 - DuoBedApplication -INFO - Test case execution failed
+2023-04-13 19:59:30,067 - DuoBedApplication -INFO - Test case execution failed
+2023-04-13 23:56:42,351 - DuoBedApplication -INFO - Framework execution started
+2023-04-13 23:56:50,566 - DuoBedApplication -INFO - Browser launchesCHROME
+2023-04-13 23:56:50,567 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-13 23:56:50,629 - DuoBedApplication -INFO - logged into application successfully
+2023-04-13 23:56:50,637 - DuoBedApplication -INFO - Object Creation
+2023-04-13 23:56:50,651 - DuoBedApplication -INFO - Test case execution started
+2023-04-13 23:58:14,862 - DuoBedApplication -INFO - Test case execution completed
+2023-04-13 23:58:14,862 - DuoBedApplication -INFO - browser closed
+2023-04-13 23:58:20,785 - DuoBedApplication -INFO - Browser launchesCHROME
+2023-04-13 23:58:20,786 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-13 23:58:20,787 - DuoBedApplication -INFO - logged into application successfully
+2023-04-13 23:58:20,789 - DuoBedApplication -INFO - Object Creation
+2023-04-13 23:58:20,793 - DuoBedApplication -INFO - Test case execution started
+2023-04-13 23:59:45,114 - DuoBedApplication -INFO - Test case execution completed
+2023-04-13 23:59:45,120 - DuoBedApplication -INFO - browser closed
+2023-04-13 23:59:51,788 - DuoBedApplication -INFO - Browser launchesCHROME
+2023-04-13 23:59:51,789 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-13 23:59:51,790 - DuoBedApplication -INFO - logged into application successfully
+2023-04-13 23:59:51,791 - DuoBedApplication -INFO - Object Creation
+2023-04-13 23:59:51,793 - DuoBedApplication -INFO - Test case execution started
+2023-04-14 00:01:17,999 - DuoBedApplication -INFO - Test case execution completed
+2023-04-14 00:01:17,999 - DuoBedApplication -INFO - browser closed
+2023-04-14 00:01:25,468 - DuoBedApplication -INFO - Browser launchesCHROME
+2023-04-14 00:01:25,469 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-14 00:01:25,469 - DuoBedApplication -INFO - logged into application successfully
+2023-04-14 00:01:25,471 - DuoBedApplication -INFO - Object Creation
+2023-04-14 00:01:25,473 - DuoBedApplication -INFO - Test case execution started
+2023-04-14 00:03:02,854 - DuoBedApplication -INFO - Test case execution completed
+2023-04-14 00:03:02,855 - DuoBedApplication -INFO - browser closed
+2023-04-14 00:03:09,641 - DuoBedApplication -INFO - Browser launchesCHROME
+2023-04-14 00:03:09,642 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-14 00:03:09,643 - DuoBedApplication -INFO - logged into application successfully
+2023-04-14 00:03:09,644 - DuoBedApplication -INFO - Object Creation
+2023-04-14 00:03:09,647 - DuoBedApplication -INFO - Test case execution started
+2023-04-14 00:04:34,474 - DuoBedApplication -INFO - Test case execution completed
+2023-04-14 00:04:34,474 - DuoBedApplication -INFO - browser closed
+2023-04-14 00:04:34,775 - DuoBedApplication -INFO - Test case execution started
+2023-04-14 00:22:56,724 - DuoBedApplication -INFO - Framework execution started
+2023-04-14 00:23:03,183 - DuoBedApplication -INFO - Browser launchesCHROME
+2023-04-14 00:23:03,183 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-14 00:23:03,231 - DuoBedApplication -INFO - logged into application successfully
+2023-04-14 00:23:03,238 - DuoBedApplication -INFO - Object Creation
+2023-04-14 00:23:03,247 - DuoBedApplication -INFO - Test case execution started
+2023-04-14 00:24:25,112 - DuoBedApplication -INFO - Test case execution completed
+2023-04-14 00:24:25,113 - DuoBedApplication -INFO - browser closed
+2023-04-14 00:24:31,373 - DuoBedApplication -INFO - Browser launchesCHROME
+2023-04-14 00:24:31,374 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-14 00:24:31,374 - DuoBedApplication -INFO - logged into application successfully
+2023-04-14 00:24:31,376 - DuoBedApplication -INFO - Object Creation
+2023-04-14 00:24:31,378 - DuoBedApplication -INFO - Test case execution started
+2023-04-14 00:25:57,288 - DuoBedApplication -INFO - Test case execution completed
+2023-04-14 00:25:57,291 - DuoBedApplication -INFO - browser closed
+2023-04-14 00:26:03,563 - DuoBedApplication -INFO - Browser launchesCHROME
+2023-04-14 00:26:03,564 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-14 00:26:03,565 - DuoBedApplication -INFO - logged into application successfully
+2023-04-14 00:26:03,566 - DuoBedApplication -INFO - Object Creation
+2023-04-14 00:26:03,568 - DuoBedApplication -INFO - Test case execution started
+2023-04-14 00:27:24,876 - DuoBedApplication -INFO - Test case execution completed
+2023-04-14 00:27:24,877 - DuoBedApplication -INFO - browser closed
+2023-04-14 00:27:30,073 - DuoBedApplication -INFO - Browser launchesCHROME
+2023-04-14 00:27:30,075 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-14 00:27:30,076 - DuoBedApplication -INFO - logged into application successfully
+2023-04-14 00:27:30,078 - DuoBedApplication -INFO - Object Creation
+2023-04-14 00:27:30,082 - DuoBedApplication -INFO - Test case execution started
+2023-04-14 00:28:51,715 - DuoBedApplication -INFO - Test case execution completed
+2023-04-14 00:28:51,716 - DuoBedApplication -INFO - browser closed
+2023-04-14 00:28:56,844 - DuoBedApplication -INFO - Browser launchesCHROME
+2023-04-14 00:28:56,845 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-14 00:28:56,846 - DuoBedApplication -INFO - logged into application successfully
+2023-04-14 00:28:56,849 - DuoBedApplication -INFO - Object Creation
+2023-04-14 00:28:56,858 - DuoBedApplication -INFO - Test case execution started
+2023-04-14 00:30:15,769 - DuoBedApplication -INFO - Test case execution completed
+2023-04-14 00:30:15,771 - DuoBedApplication -INFO - browser closed
+2023-04-14 00:30:21,528 - DuoBedApplication -INFO - Browser launchesCHROME
+2023-04-14 00:30:21,529 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-14 00:30:21,529 - DuoBedApplication -INFO - logged into application successfully
+2023-04-14 00:30:21,530 - DuoBedApplication -INFO - Object Creation
+2023-04-14 00:30:21,533 - DuoBedApplication -INFO - Test case execution started
+2023-04-14 00:31:42,734 - DuoBedApplication -INFO - Test case execution completed
+2023-04-14 00:31:42,734 - DuoBedApplication -INFO - browser closed
+2023-04-14 00:31:48,480 - DuoBedApplication -INFO - Browser launchesCHROME
+2023-04-14 00:31:48,481 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-14 00:31:48,482 - DuoBedApplication -INFO - logged into application successfully
+2023-04-14 00:31:48,483 - DuoBedApplication -INFO - Object Creation
+2023-04-14 00:31:48,485 - DuoBedApplication -INFO - Test case execution started
+2023-04-14 00:47:24,870 - DuoBedApplication -INFO - Framework execution started
+2023-04-14 00:47:35,759 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-04-14 00:47:35,759 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-14 00:47:35,825 - DuoBedApplication -INFO - logged into application successfully
+2023-04-14 00:47:35,831 - DuoBedApplication -INFO - Object Creation
+2023-04-14 00:48:57,841 - DuoBedApplication -INFO - browser closed
+2023-04-14 00:48:57,847 - DuoBedApplication -INFO - Framework execution ended
+2023-04-14 00:49:16,950 - DuoBedApplication -INFO - Framework execution started
+2023-04-14 00:49:23,948 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-04-14 00:49:23,950 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-14 00:49:24,068 - DuoBedApplication -INFO - logged into application successfully
+2023-04-14 00:49:24,073 - DuoBedApplication -INFO - Object Creation
+2023-04-14 00:50:44,715 - DuoBedApplication -INFO - browser closed
+2023-04-14 00:50:44,717 - DuoBedApplication -INFO - Framework execution ended
+2023-04-14 00:54:30,668 - DuoBedApplication -INFO - Framework execution started
+2023-04-14 00:54:37,972 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-04-14 00:54:37,972 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-14 00:54:38,048 - DuoBedApplication -INFO - logged into application successfully
+2023-04-14 00:54:38,101 - DuoBedApplication -INFO - Object Creation
+2023-04-14 00:54:38,111 - DuoBedApplication -INFO - Test case execution started
+2023-04-14 00:55:58,457 - DuoBedApplication -INFO - Test case execution completed
+2023-04-14 00:55:59,603 - DuoBedApplication -INFO - browser closed
+2023-04-14 00:56:05,811 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-04-14 00:56:05,812 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-14 00:56:05,813 - DuoBedApplication -INFO - logged into application successfully
+2023-04-14 00:56:05,816 - DuoBedApplication -INFO - Object Creation
+2023-04-14 00:56:05,827 - DuoBedApplication -INFO - Test case execution started
+2023-04-14 00:57:27,171 - DuoBedApplication -INFO - Test case execution completed
+2023-04-14 00:57:28,293 - DuoBedApplication -INFO - browser closed
+2023-04-14 00:57:34,729 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-04-14 00:57:34,731 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-14 00:57:34,732 - DuoBedApplication -INFO - logged into application successfully
+2023-04-14 00:57:34,735 - DuoBedApplication -INFO - Object Creation
+2023-04-14 00:57:34,739 - DuoBedApplication -INFO - Test case execution started
+2023-04-14 00:58:55,110 - DuoBedApplication -INFO - Test case execution completed
+2023-04-14 00:58:56,316 - DuoBedApplication -INFO - browser closed
+2023-04-14 00:59:02,609 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-04-14 00:59:02,609 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-14 00:59:02,610 - DuoBedApplication -INFO - logged into application successfully
+2023-04-14 00:59:02,614 - DuoBedApplication -INFO - Object Creation
+2023-04-14 00:59:02,617 - DuoBedApplication -INFO - Test case execution started
+2023-04-14 01:00:24,741 - DuoBedApplication -INFO - Test case execution completed
+2023-04-14 01:00:25,936 - DuoBedApplication -INFO - browser closed
+2023-04-14 01:00:32,014 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-04-14 01:00:32,016 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-14 01:00:32,016 - DuoBedApplication -INFO - logged into application successfully
+2023-04-14 01:00:32,022 - DuoBedApplication -INFO - Object Creation
+2023-04-14 01:00:32,023 - DuoBedApplication -INFO - Test case execution started
+2023-04-14 01:01:51,268 - DuoBedApplication -INFO - Test case execution completed
+2023-04-14 01:01:52,410 - DuoBedApplication -INFO - browser closed
+2023-04-14 01:01:58,630 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-04-14 01:01:58,630 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-14 01:01:58,631 - DuoBedApplication -INFO - logged into application successfully
+2023-04-14 01:01:58,636 - DuoBedApplication -INFO - Object Creation
+2023-04-14 01:01:58,640 - DuoBedApplication -INFO - Test case execution started
+2023-04-14 01:03:19,363 - DuoBedApplication -INFO - Test case execution completed
+2023-04-14 01:03:20,484 - DuoBedApplication -INFO - browser closed
+2023-04-14 01:03:26,271 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-04-14 01:03:26,272 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-14 01:03:26,272 - DuoBedApplication -INFO - logged into application successfully
+2023-04-14 01:03:26,273 - DuoBedApplication -INFO - Object Creation
+2023-04-14 01:03:26,275 - DuoBedApplication -INFO - Test case execution started
+2023-04-14 01:04:47,854 - DuoBedApplication -INFO - Test case execution completed
+2023-04-14 01:04:48,934 - DuoBedApplication -INFO - browser closed
+2023-04-14 01:04:54,657 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-04-14 01:04:54,658 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-14 01:04:54,659 - DuoBedApplication -INFO - logged into application successfully
+2023-04-14 01:04:54,660 - DuoBedApplication -INFO - Object Creation
+2023-04-14 01:04:54,662 - DuoBedApplication -INFO - Test case execution started
+2023-04-14 01:06:16,067 - DuoBedApplication -INFO - Test case execution completed
+2023-04-14 01:06:17,269 - DuoBedApplication -INFO - browser closed
+2023-04-14 01:06:23,276 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-04-14 01:06:23,279 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-14 01:06:23,283 - DuoBedApplication -INFO - logged into application successfully
+2023-04-14 01:06:23,288 - DuoBedApplication -INFO - Object Creation
+2023-04-14 01:06:23,299 - DuoBedApplication -INFO - Test case execution started
+2023-04-14 01:07:45,166 - DuoBedApplication -INFO - Test case execution completed
+2023-04-14 01:07:46,321 - DuoBedApplication -INFO - browser closed
+2023-04-14 01:07:52,558 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-04-14 01:07:52,558 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-14 01:07:52,561 - DuoBedApplication -INFO - logged into application successfully
+2023-04-14 01:07:52,563 - DuoBedApplication -INFO - Object Creation
+2023-04-14 01:07:52,565 - DuoBedApplication -INFO - Test case execution started
+2023-04-14 01:09:13,631 - DuoBedApplication -INFO - Test case execution completed
+2023-04-14 01:09:14,751 - DuoBedApplication -INFO - browser closed
+2023-04-14 01:09:20,791 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-04-14 01:09:20,791 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-14 01:09:20,793 - DuoBedApplication -INFO - logged into application successfully
+2023-04-14 01:09:20,811 - DuoBedApplication -INFO - Object Creation
+2023-04-14 01:09:20,813 - DuoBedApplication -INFO - Test case execution started
+2023-04-14 01:10:37,270 - DuoBedApplication -INFO - Test case execution completed
+2023-04-14 01:10:38,346 - DuoBedApplication -INFO - browser closed
+2023-04-14 01:10:38,346 - DuoBedApplication -INFO - Framework execution ended
+2023-04-20 16:11:56,947 - DuoBedApplication -INFO - Framework execution started
+2023-04-20 16:21:30,055 - DuoBedApplication -INFO - Framework execution started
+2023-04-20 16:21:40,124 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-04-20 16:21:40,125 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-04-20 16:21:40,176 - DuoBedApplication -INFO - logged into application successfully
+2023-04-20 16:21:40,186 - DuoBedApplication -INFO - Object Creation
+2023-04-20 16:21:51,348 - DuoBedApplication -INFO - browser closed
+2023-04-20 16:21:51,348 - DuoBedApplication -INFO - Framework execution ended
+2023-12-17 01:07:37,627 - DuoBedApplication -INFO - Framework execution started
+2023-12-17 01:07:53,130 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-12-17 01:07:53,134 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-12-17 01:07:53,223 - DuoBedApplication -INFO - logged into application successfully
+2023-12-17 01:07:53,245 - DuoBedApplication -INFO - Object Creation
+2023-12-17 01:08:57,639 - DuoBedApplication -INFO - browser closed
+2023-12-17 01:08:57,639 - DuoBedApplication -INFO - Framework execution ended
+2023-12-17 01:13:23,568 - DuoBedApplication -INFO - Framework execution started
+2023-12-17 01:13:32,839 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-12-17 01:13:32,839 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-12-17 01:13:32,904 - DuoBedApplication -INFO - logged into application successfully
+2023-12-17 01:13:32,927 - DuoBedApplication -INFO - Object Creation
+2023-12-17 01:13:49,447 - DuoBedApplication -INFO - browser closed
+2023-12-17 01:13:49,453 - DuoBedApplication -INFO - Framework execution ended
+2023-12-17 01:14:49,894 - DuoBedApplication -INFO - Framework execution started
+2023-12-17 01:14:58,709 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-12-17 01:14:58,710 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-12-17 01:14:58,777 - DuoBedApplication -INFO - logged into application successfully
+2023-12-17 01:14:58,834 - DuoBedApplication -INFO - Object Creation
+2023-12-17 01:15:59,463 - DuoBedApplication -INFO - browser closed
+2023-12-17 01:15:59,467 - DuoBedApplication -INFO - Framework execution ended
+2023-12-17 01:20:03,365 - DuoBedApplication -INFO - Framework execution started
+2023-12-17 01:20:12,134 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-12-17 01:20:12,135 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-12-17 01:20:12,253 - DuoBedApplication -INFO - logged into application successfully
+2023-12-17 01:20:12,340 - DuoBedApplication -INFO - Object Creation
+2023-12-17 01:20:58,395 - DuoBedApplication -INFO - browser closed
+2023-12-17 01:20:58,400 - DuoBedApplication -INFO - Framework execution ended
+2023-12-17 01:51:45,412 - DuoBedApplication -INFO - Framework execution started
+2023-12-17 01:51:55,454 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-12-17 01:51:55,456 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-12-17 01:51:55,589 - DuoBedApplication -INFO - logged into application successfully
+2023-12-17 01:51:55,619 - DuoBedApplication -INFO - Object Creation
+2023-12-17 01:53:13,237 - DuoBedApplication -INFO - browser closed
+2023-12-17 01:53:13,246 - DuoBedApplication -INFO - Framework execution ended
+2023-12-17 01:54:53,924 - DuoBedApplication -INFO - Framework execution started
+2023-12-17 01:55:04,284 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-12-17 01:55:04,284 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-12-17 01:55:04,361 - DuoBedApplication -INFO - logged into application successfully
+2023-12-17 01:55:04,383 - DuoBedApplication -INFO - Object Creation
+2023-12-17 01:56:07,258 - DuoBedApplication -INFO - browser closed
+2023-12-17 01:56:07,263 - DuoBedApplication -INFO - Framework execution ended
+2023-12-17 02:01:21,490 - DuoBedApplication -INFO - Framework execution started
+2023-12-17 02:01:31,546 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-12-17 02:01:31,547 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-12-17 02:01:31,648 - DuoBedApplication -INFO - logged into application successfully
+2023-12-17 02:01:31,671 - DuoBedApplication -INFO - Object Creation
+2023-12-17 02:02:51,443 - DuoBedApplication -INFO - browser closed
+2023-12-17 02:02:51,446 - DuoBedApplication -INFO - Framework execution ended
+2023-12-17 02:04:36,343 - DuoBedApplication -INFO - Framework execution started
+2023-12-17 02:04:43,332 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-12-17 02:04:43,333 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-12-17 02:04:43,423 - DuoBedApplication -INFO - logged into application successfully
+2023-12-17 02:04:43,431 - DuoBedApplication -INFO - Object Creation
+2023-12-17 02:05:57,555 - DuoBedApplication -INFO - browser closed
+2023-12-17 02:05:57,555 - DuoBedApplication -INFO - Framework execution ended
+2023-12-17 02:15:01,255 - DuoBedApplication -INFO - Framework execution started
+2023-12-17 02:15:09,031 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-12-17 02:15:09,035 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-12-17 02:15:09,089 - DuoBedApplication -INFO - logged into application successfully
+2023-12-17 02:15:09,102 - DuoBedApplication -INFO - Object Creation
+2023-12-17 02:16:21,321 - DuoBedApplication -INFO - browser closed
+2023-12-17 02:16:21,328 - DuoBedApplication -INFO - Framework execution ended
+2023-12-17 02:18:17,872 - DuoBedApplication -INFO - Framework execution started
+2023-12-17 02:18:24,701 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-12-17 02:18:24,702 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-12-17 02:18:24,748 - DuoBedApplication -INFO - logged into application successfully
+2023-12-17 02:18:24,769 - DuoBedApplication -INFO - Object Creation
+2023-12-17 02:19:36,508 - DuoBedApplication -INFO - browser closed
+2023-12-17 02:19:36,514 - DuoBedApplication -INFO - Framework execution ended
+2023-12-17 02:22:09,989 - DuoBedApplication -INFO - Framework execution started
+2023-12-17 02:22:16,621 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-12-17 02:22:16,621 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-12-17 02:22:16,654 - DuoBedApplication -INFO - logged into application successfully
+2023-12-17 02:22:16,668 - DuoBedApplication -INFO - Object Creation
+2023-12-17 02:23:28,515 - DuoBedApplication -INFO - browser closed
+2023-12-17 02:23:34,240 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-12-17 02:23:34,240 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-12-17 02:23:34,244 - DuoBedApplication -INFO - logged into application successfully
+2023-12-17 02:23:34,248 - DuoBedApplication -INFO - Object Creation
+2023-12-17 02:24:45,653 - DuoBedApplication -INFO - browser closed
+2023-12-17 02:24:51,134 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-12-17 02:24:51,134 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-12-17 02:24:51,134 - DuoBedApplication -INFO - logged into application successfully
+2023-12-17 02:24:51,138 - DuoBedApplication -INFO - Object Creation
+2023-12-17 02:26:01,417 - DuoBedApplication -INFO - browser closed
+2023-12-17 02:26:07,189 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-12-17 02:26:07,193 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-12-17 02:26:07,193 - DuoBedApplication -INFO - logged into application successfully
+2023-12-17 02:26:07,197 - DuoBedApplication -INFO - Object Creation
+2023-12-17 02:27:18,428 - DuoBedApplication -INFO - browser closed
+2023-12-17 02:27:23,775 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-12-17 02:27:23,775 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-12-17 02:27:23,775 - DuoBedApplication -INFO - logged into application successfully
+2023-12-17 02:27:23,779 - DuoBedApplication -INFO - Object Creation
+2023-12-17 02:28:37,513 - DuoBedApplication -INFO - browser closed
+2023-12-17 02:28:43,640 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-12-17 02:28:43,640 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-12-17 02:28:43,640 - DuoBedApplication -INFO - logged into application successfully
+2023-12-17 02:28:43,644 - DuoBedApplication -INFO - Object Creation
+2023-12-17 02:29:58,058 - DuoBedApplication -INFO - browser closed
+2023-12-17 02:30:03,631 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-12-17 02:30:03,631 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-12-17 02:30:03,632 - DuoBedApplication -INFO - logged into application successfully
+2023-12-17 02:30:03,640 - DuoBedApplication -INFO - Object Creation
+2023-12-17 02:31:17,181 - DuoBedApplication -INFO - browser closed
+2023-12-17 02:31:23,017 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-12-17 02:31:23,017 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-12-17 02:31:23,017 - DuoBedApplication -INFO - logged into application successfully
+2023-12-17 02:31:23,018 - DuoBedApplication -INFO - Object Creation
+2023-12-17 02:32:35,829 - DuoBedApplication -INFO - browser closed
+2023-12-17 02:32:41,517 - DuoBedApplication -INFO - Browser launchesfirefox
+2023-12-17 02:32:41,517 - DuoBedApplication -INFO -  Url hit in the browser successfully , maximize window , provided implicitlyWait
+2023-12-17 02:32:41,521 - DuoBedApplication -INFO - logged into application successfully
+2023-12-17 02:32:41,525 - DuoBedApplication -INFO - Object Creation
+2023-12-17 02:34:05,103 - DuoBedApplication -INFO - browser closed
